@@ -2,6 +2,7 @@
 					<h4>Institution (select one)</h4>
 				</label>
 				<select id="institution" name="institution">
+					<option value="Minnesota">Minnesota</option>
 					<option value="Tufts">Tufts</option>
 					<option value="Harvard">Harvard</option>
 					<option value="MIT">MIT</option>
